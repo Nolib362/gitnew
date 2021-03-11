@@ -57,3 +57,8 @@ export PS1='\n\u/../\W/: '
 
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
+
+
+
+- name: Heroku Run
+  uses: michcio1234/heroku-run@0.1.1
